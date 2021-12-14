@@ -15,7 +15,7 @@ The pre-trained parameters of ClinicalBERT can be downloaded at: https://github.
 
 
 ## Instructions
-We provide the default hyperparameters in params.py, you can modify it to try different hyperparamters. To run the code in this folder, please follow the instructions below.
+To run the code in this folder, please follow the instructions below.
 
 1. Download the MIMIC-III data.
 2. Extract the features by the scripts provided at: https://github.com/MLD3/FIDDLE-experiments
